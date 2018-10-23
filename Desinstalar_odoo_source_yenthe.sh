@@ -2,7 +2,7 @@
 #################################################################################################################
 
 # script para desinstalar odoo 10 y postgresql 9.5 INSTALADO DESDE CODIGO FUENTE (yenthe)
-# Deja el sistema linux listo para volver a instalar Odoo
+# Deja el sistema linux listo para volver a instalar Odoo (desde source, pero no desde package)
 
 # STOP SERVERS
   sudo service odoo-server stop
