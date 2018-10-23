@@ -1,3 +1,6 @@
+#!/bin/bash
+#################################################################################################################
+
 # script para desinstalar odoo 10 y postgresql 9.5 INSTALADO DESDE CODIGO FUENTE (yenthe)
 # Deja el sistema linux listo para volver a instalar Odoo
 
